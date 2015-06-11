@@ -1,0 +1,115 @@
+@charset "utf-8";
+/* CSS Document */	
+	
+.ccm-page	.btn {
+		border-radius:3px;
+		-webkit-border-radius:3px;
+	  -moz-border-radius: 3px;}
+.ccm-page #ccm-menu-highlighter .ccm-block-highlight{
+	top:445px;
+	}
+.fares{
+	border:dotted #000000 1px ;
+	
+	
+	}
+.upperfoottext{
+	color:white !important;
+	font-decoration:underline;
+	}
+
+a:hover, a:focus {
+    color: #3A3B9C;
+    text-decoration: underline;
+}
+
+a{
+	color:#2E5FA9;
+	}
+
+a:hover#foots, a:focus#foots {
+    color: #000;
+    text-decoration: none;
+}
+
+a#foots{
+	color:#eeeeef;
+	}
+div.container{
+	padding-top:none;
+	}
+td#route{
+	text-align:center;
+	}
+	#rates table  td {
+		text-align:center;
+min-width: 110px;	}
+	
+.lineup{
+	line-height:20px;}
+
+@media screen and (max-width: 767px) {
+	#schedulebutton{
+	width: 100% !important;
+    float: right;
+	max-width:301px;
+	min-width:201px;
+	padding:13px;
+	}
+.row{
+margin-right: -15px !important;
+}
+}
+.rslides_nav {
+	opacity:0.1;
+	}
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+  background-color:#FDFDFD;
+
+}
+.footer {
+  position: absolute;
+  /*bottom: 0;*/
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  min-height: 60px;
+  padding-top:5px;
+  
+  
+}
+.accent{
+	background-image:url(../images/accentfooter.png);
+	height:100px;
+	}
+	
+.cr{
+	padding: 22px 5% 20px;
+	background: none repeat scroll 0% 0% #333;
+	clear: both;
+	overflow: hidden;
+	}
+	
+.cr li, .cr #row{
+	color: #eeeeef;
+	font-size: 10px;
+	text-transform:uppercase;
+	letter-spacing: 0.07em;
+	}	
+
+.upper li, .upper #row{
+	letter-spacing: 0.07em;
+	text-transform: uppercase;
+	}
+	
+.upper{
+	background-color: #444;
+	overflow: hidden;
+	padding: 22px 5% 20px;
+
+	}	

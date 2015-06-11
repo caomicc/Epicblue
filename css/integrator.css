@@ -1,0 +1,11 @@
+/*!
+ * https://github.com/pjamal/C5-Integrator
+ * Copyright 2014 
+ * Licensed under MIT (https://github.com/pjamal/C5-Integrator/license)
+ */
+body { position: static;
+		 }
+.navbar-static-top {
+    z-index: 100;
+    border-width: 0 0 1px;
+}

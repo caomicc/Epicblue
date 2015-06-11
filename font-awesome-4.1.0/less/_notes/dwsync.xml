@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="bordered-pulled.less" server="10.10.0.62//var/www/html/application/themes/" local="130658996350457800" remote="130742079500000000" Dst="2" />
+<file name="core.less" server="10.10.0.62//var/www/html/application/themes/" local="130658996350617816" remote="130742079500000000" Dst="2" />
+<file name="fixed-width.less" server="10.10.0.62//var/www/html/application/themes/" local="130658996350797834" remote="130742079500000000" Dst="2" />
+<file name="font-awesome.less" server="10.10.0.62//var/www/html/application/themes/" local="130658996351127867" remote="130742079500000000" Dst="2" />
+<file name="icons.less" server="10.10.0.62//var/www/html/application/themes/" local="130658996351317886" remote="130742079500000000" Dst="2" />
+<file name="larger.less" server="10.10.0.62//var/www/html/application/themes/" local="130658996351507905" remote="130742079500000000" Dst="2" />
+<file name="list.less" server="10.10.0.62//var/www/html/application/themes/" local="130658996351667921" remote="130742079500000000" Dst="2" />
+<file name="mixins.less" server="10.10.0.62//var/www/html/application/themes/" local="130658996351837938" remote="130742079500000000" Dst="2" />
+<file name="path.less" server="10.10.0.62//var/www/html/application/themes/" local="130658996352007955" remote="130742079500000000" Dst="2" />
+<file name="rotated-flipped.less" server="10.10.0.62//var/www/html/application/themes/" local="130658996352177972" remote="130742079500000000" Dst="2" />
+<file name="spinning.less" server="10.10.0.62//var/www/html/application/themes/" local="130658996352337988" remote="130742079500000000" Dst="2" />
+<file name="stacked.less" server="10.10.0.62//var/www/html/application/themes/" local="130658996352508005" remote="130742079500000000" Dst="2" />
+<file name="variables.less" server="10.10.0.62//var/www/html/application/themes/" local="130658996352688023" remote="130742079500000000" Dst="2" />
+<file name="bordered-pulled.less" server="10.10.0.62//var/www/html/" local="130658996350457800" remote="130742908490000000" Dst="2" />
+<file name="core.less" server="10.10.0.62//var/www/html/" local="130658996350617816" remote="130742908490000000" Dst="2" />
+<file name="fixed-width.less" server="10.10.0.62//var/www/html/" local="130658996350797834" remote="130742908490000000" Dst="2" />
+<file name="font-awesome.less" server="10.10.0.62//var/www/html/" local="130658996351127867" remote="130742908490000000" Dst="2" />
+<file name="icons.less" server="10.10.0.62//var/www/html/" local="130658996351317886" remote="130742908490000000" Dst="2" />
+<file name="larger.less" server="10.10.0.62//var/www/html/" local="130658996351507905" remote="130742908490000000" Dst="2" />
+<file name="list.less" server="10.10.0.62//var/www/html/" local="130658996351667921" remote="130742908490000000" Dst="2" />
+<file name="mixins.less" server="10.10.0.62//var/www/html/" local="130658996351837938" remote="130742908490000000" Dst="2" />
+<file name="path.less" server="10.10.0.62//var/www/html/" local="130658996352007955" remote="130742908490000000" Dst="2" />
+<file name="rotated-flipped.less" server="10.10.0.62//var/www/html/" local="130658996352177972" remote="130742908490000000" Dst="2" />
+<file name="spinning.less" server="10.10.0.62//var/www/html/" local="130658996352337988" remote="130742908490000000" Dst="2" />
+<file name="stacked.less" server="10.10.0.62//var/www/html/" local="130658996352508005" remote="130742908490000000" Dst="2" />
+<file name="variables.less" server="10.10.0.62//var/www/html/" local="130658996352688023" remote="130742908490000000" Dst="2" />
+<file name="bordered-pulled.less" server="10.10.0.142//var/www/html/" local="130658996350457800" remote="130760058070000000" Dst="2" />
+<file name="core.less" server="10.10.0.142//var/www/html/" local="130658996350617816" remote="130760058070000000" Dst="2" />
+<file name="fixed-width.less" server="10.10.0.142//var/www/html/" local="130658996350797834" remote="130760058070000000" Dst="2" />
+<file name="font-awesome.less" server="10.10.0.142//var/www/html/" local="130658996351127867" remote="130760058070000000" Dst="2" />
+<file name="icons.less" server="10.10.0.142//var/www/html/" local="130658996351317886" remote="130760058080000000" Dst="2" />
+<file name="larger.less" server="10.10.0.142//var/www/html/" local="130658996351507905" remote="130760058080000000" Dst="2" />
+<file name="list.less" server="10.10.0.142//var/www/html/" local="130658996351667921" remote="130760058080000000" Dst="2" />
+<file name="mixins.less" server="10.10.0.142//var/www/html/" local="130658996351837938" remote="130760058080000000" Dst="2" />
+<file name="path.less" server="10.10.0.142//var/www/html/" local="130658996352007955" remote="130760058080000000" Dst="2" />
+<file name="rotated-flipped.less" server="10.10.0.142//var/www/html/" local="130658996352177972" remote="130760058080000000" Dst="2" />
+<file name="spinning.less" server="10.10.0.142//var/www/html/" local="130658996352337988" remote="130760058080000000" Dst="2" />
+<file name="stacked.less" server="10.10.0.142//var/www/html/" local="130658996352508005" remote="130760058080000000" Dst="2" />
+<file name="variables.less" server="10.10.0.142//var/www/html/" local="130658996352688023" remote="130760058080000000" Dst="2" />
+</dwsync>

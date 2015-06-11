@@ -1,0 +1,127 @@
+@-moz-document url-prefix() {
+@media (min-width: 991px){
+    #announcmentbar {
+        padding-top: 39px !important;
+    }
+}
+}
+@charset "utf-8";
+/* CSS Document */
+.ui-accordion .ui-accordion-header {
+  	height: 37px;
+  	font-size:18px !important
+	}
+@media (max-width: 401px){
+  	.ui-accordion .ui-accordion-header {
+	height: 32px;
+ 	font-size: 15px !important;
+	}
+}
+#announcmentbar{
+	padding: 15px;
+	}
+
+.highintensity{
+	background:#ee3124;
+    background:rgba(238,49,36,1)!important
+	}
+/*.highintensitydesc{
+	}*/
+.modintensity{
+	background:#f7a11a;
+    background:rgba(247,161,26,1)!important
+	
+	}
+/*.modintensitydesc{
+	}*/
+.lowintensity{
+	background:#1eb259;
+    background:rgba(30,178,89,1)!important
+	}
+/*.lowintensitydesc{
+	}*/
+.nointensity{
+	background:#2e5fa9;
+    background:rgba(46,95,169,1)!important
+	}
+
+.ui-accordion {
+    border:none!important
+}
+
+.ui-helper-reset {
+    border:none!important
+}
+
+.ui-accordion-header {
+  /*background:#f7a11a;
+    background:rgba(247,161,26,1)!important;*/
+    color:#fff!important;
+    border:none!important
+}
+
+.ui-accordion-content {
+    background:none!important
+}
+
+#bar h1 {
+    padding-top:0;
+    height:30px;
+    margin:20px
+}
+
+#service .ui-accordion-content {
+    background:#0068b3;
+    color:#fff!important
+}
+
+.ui-widget .ui-widget-header {
+    background:none!important
+}
+
+#service .highintensity {
+    background:#ee3124;
+    background:rgba(238,49,36,1)!important
+}
+
+#service .lowintensity {
+    background:#1eb259;
+    background:rgba(30,178,89,1)!important
+}
+
+#service .modintensity {
+    background:#f7a11a;
+    background:rgba(247,161,26,1)!important
+}
+
+#service .nointensity {
+    background:#2e5fa9;
+    background:rgba(46,95,169,1)!important
+}
+
+#service .nointensitydesc {
+    background:#2e5fa9;
+    background:rgba(46,95,169,.8)!important
+}
+
+#service .highintensitydesc {
+    background:#ee3114;
+    background:rgba(238,49,20,.8)!important
+}
+
+#service .lowintensitydesc {
+    background:#1eb259;
+    background:rgba(30,178,89,0.8)!important
+}
+
+#service .modintensitydesc {
+    background:#f7a014;
+    background:rgba(247,160,20,.9)!important
+}
+
+#bar {
+    -webkit-border-radius:4px;
+    -moz-border-radius:4px;
+    border-radius:4px;
+	background:#eee;
+	}

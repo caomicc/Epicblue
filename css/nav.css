@@ -1,0 +1,161 @@
+
+.autonavindividual a{
+	font-size:11px;
+	color:#eeeeef;
+  padding-top: 11px;
+/* margin-top:-11px;
+*/  text-decoration: none;
+  display: block;
+}
+
+.autonavindividual a:hover{
+	color:#111;
+	  text-decoration: none;
+}
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+.dropdown-submenu {
+    position: relative !important;
+}
+
+.dropdown-submenu>.dropdown-menu {
+    top: 0 !important;
+    left: 100% !important;
+    margin-top: -6px !important;
+    margin-left: -1px !important;
+    border-radius: 0 !important;
+}
+
+.dropdown-submenu:hover>.dropdown-menu {
+    display: block !important;
+}
+
+.dropdown-submenu>a:after {
+    display: block;
+    content: "\f105";
+    font-family: 'FontAwesome';
+    margin-top: -18px;
+    right: 15px;
+    position: absolute;
+    font-weight: 300;
+}
+body > div.ccm-page.page-type-page.page-template-full > nav{
+	
+	margin-bottom:15px;
+	}
+	
+	.ccm-page .navbar {
+	/*max-height:136px;*/
+	}
+	
+	#midnav{
+	background-color:#204276;
+	margin: 5px auto 0 auto;
+	}
+#midnav2{
+	float:right;
+	width:100%;
+	}
+.fml{
+	margin: 0 auto;
+	max-width:1200px;
+	width:100%;
+	padding: 0 10px;
+	}
+	#midnav2 > ul > li {
+		font-family:Montserrat;
+		text-transform:uppercase;
+		
+		}
+.ccm-page	ul.nav{
+		
+		font-family:Montserrat;
+		text-transform:uppercase;
+		}
+		
+		.fml > .col-sm-4{
+	padding-bottom:5px;
+	}
+	
+	
+	.ccm-ui .navbar-nav > li {
+    float: none !important;
+}
+/*div#ccm-panel-dashboard div.ccm-panel-dashboard-footer {
+	float:left !important;
+	}*/
+.nav .open > a,
+.nav .open > a:hover,
+.nav .open > a:focus {
+  background-color: rgba(0, 0, 0, .2);
+  border-color: #008cba;
+}
+.nav > li > a:hover,
+.nav > li > a:focus {
+  text-decoration: none;
+  background-color: rgba(0, 0, 0, .2);
+}
+
+.nav > li > a {
+  color:#eeeef9;
+}
+.navbar-inverse {
+  background-color: rgb(46, 95, 169)!important;
+  }
+  .navbar-inverse .dropdown-menu {
+	background-color: rgb(46, 95, 169)!important;
+	
+	}
+button.navbar-toggle{
+	display:none;
+	height:none;
+	}
+@media (max-width: 991px){
+	.navbar-inverse .dropdown-menu {
+	background-color: transparent !important;
+	}
+.navbar{
+	max-height:none;	
+	}
+.navbar a{	
+	display: block;
+	}
+
+.navbar-inverse {
+    padding-bottom: 0;
+	
+}
+}
+@media screen and (min-width: 42.5em){
+	  .nav {
+    padding:0 0 16px 0;
+		   }
+	}
+	
+	
+@media screen and (min-width: 992px) {
+	div.pleaseclose{
+		display:none !important;
+		}
+	#navigationpadding{
+	padding-top:10px;
+	}
+	
+	}
+@media screen and (max-width: 991px) {
+	ul.nav{
+		display:none;}
+	}
+	
+	#schedulebutton{
+	width: 100% !important;
+    float: right;
+	max-width:301px;
+	min-width:201px;
+	margin-right: 5px;
+	}
+
+.white, .white a {
+  color: #fff;
+}	

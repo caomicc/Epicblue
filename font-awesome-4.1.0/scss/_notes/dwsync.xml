@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="font-awesome.scss" server="10.10.0.62//var/www/html/application/themes/" local="130658996376880442" remote="130742079500000000" Dst="2" />
+<file name="_bordered-pulled.scss" server="10.10.0.62//var/www/html/application/themes/" local="130658996353118066" remote="130742079500000000" Dst="2" />
+<file name="_core.scss" server="10.10.0.62//var/www/html/application/themes/" local="130658996353278082" remote="130742079500000000" Dst="2" />
+<file name="_fixed-width.scss" server="10.10.0.62//var/www/html/application/themes/" local="130658996353448099" remote="130742079500000000" Dst="2" />
+<file name="_icons.scss" server="10.10.0.62//var/www/html/application/themes/" local="130658996354028157" remote="130742079500000000" Dst="2" />
+<file name="_larger.scss" server="10.10.0.62//var/www/html/application/themes/" local="130658996354458200" remote="130742079500000000" Dst="2" />
+<file name="_list.scss" server="10.10.0.62//var/www/html/application/themes/" local="130658996354868241" remote="130742079500000000" Dst="2" />
+<file name="_mixins.scss" server="10.10.0.62//var/www/html/application/themes/" local="130658996371689923" remote="130742079500000000" Dst="2" />
+<file name="_path.scss" server="10.10.0.62//var/www/html/application/themes/" local="130658996374310185" remote="130742079500000000" Dst="2" />
+<file name="_rotated-flipped.scss" server="10.10.0.62//var/www/html/application/themes/" local="130658996375460300" remote="130742079500000000" Dst="2" />
+<file name="_spinning.scss" server="10.10.0.62//var/www/html/application/themes/" local="130658996375840338" remote="130742079500000000" Dst="2" />
+<file name="_stacked.scss" server="10.10.0.62//var/www/html/application/themes/" local="130658996376390393" remote="130742079500000000" Dst="2" />
+<file name="_variables.scss" server="10.10.0.62//var/www/html/application/themes/" local="130658996376720426" remote="130742079500000000" Dst="2" />
+<file name="font-awesome.scss" server="10.10.0.62//var/www/html/" local="130658996376880442" remote="130742908490000000" Dst="2" />
+<file name="_bordered-pulled.scss" server="10.10.0.62//var/www/html/" local="130658996353118066" remote="130742908490000000" Dst="2" />
+<file name="_core.scss" server="10.10.0.62//var/www/html/" local="130658996353278082" remote="130742908490000000" Dst="2" />
+<file name="_fixed-width.scss" server="10.10.0.62//var/www/html/" local="130658996353448099" remote="130742908500000000" Dst="2" />
+<file name="_icons.scss" server="10.10.0.62//var/www/html/" local="130658996354028157" remote="130742908500000000" Dst="2" />
+<file name="_larger.scss" server="10.10.0.62//var/www/html/" local="130658996354458200" remote="130742908500000000" Dst="2" />
+<file name="_list.scss" server="10.10.0.62//var/www/html/" local="130658996354868241" remote="130742908500000000" Dst="2" />
+<file name="_mixins.scss" server="10.10.0.62//var/www/html/" local="130658996371689923" remote="130742908500000000" Dst="2" />
+<file name="_path.scss" server="10.10.0.62//var/www/html/" local="130658996374310185" remote="130742908500000000" Dst="2" />
+<file name="_rotated-flipped.scss" server="10.10.0.62//var/www/html/" local="130658996375460300" remote="130742908500000000" Dst="2" />
+<file name="_spinning.scss" server="10.10.0.62//var/www/html/" local="130658996375840338" remote="130742908500000000" Dst="2" />
+<file name="_stacked.scss" server="10.10.0.62//var/www/html/" local="130658996376390393" remote="130742908500000000" Dst="2" />
+<file name="_variables.scss" server="10.10.0.62//var/www/html/" local="130658996376720426" remote="130742908500000000" Dst="2" />
+<file name="font-awesome.scss" server="10.10.0.142//var/www/html/" local="130658996376880442" remote="130760058080000000" Dst="2" />
+<file name="_bordered-pulled.scss" server="10.10.0.142//var/www/html/" local="130658996353118066" remote="130760058080000000" Dst="2" />
+<file name="_core.scss" server="10.10.0.142//var/www/html/" local="130658996353278082" remote="130760058080000000" Dst="2" />
+<file name="_fixed-width.scss" server="10.10.0.142//var/www/html/" local="130658996353448099" remote="130760058080000000" Dst="2" />
+<file name="_icons.scss" server="10.10.0.142//var/www/html/" local="130658996354028157" remote="130760058080000000" Dst="2" />
+<file name="_larger.scss" server="10.10.0.142//var/www/html/" local="130658996354458200" remote="130760058080000000" Dst="2" />
+<file name="_list.scss" server="10.10.0.142//var/www/html/" local="130658996354868241" remote="130760058080000000" Dst="2" />
+<file name="_mixins.scss" server="10.10.0.142//var/www/html/" local="130658996371689923" remote="130760058080000000" Dst="2" />
+<file name="_path.scss" server="10.10.0.142//var/www/html/" local="130658996374310185" remote="130760058080000000" Dst="2" />
+<file name="_rotated-flipped.scss" server="10.10.0.142//var/www/html/" local="130658996375460300" remote="130760058080000000" Dst="2" />
+<file name="_spinning.scss" server="10.10.0.142//var/www/html/" local="130658996375840338" remote="130760058080000000" Dst="2" />
+<file name="_stacked.scss" server="10.10.0.142//var/www/html/" local="130658996376390393" remote="130760058080000000" Dst="2" />
+<file name="_variables.scss" server="10.10.0.142//var/www/html/" local="130658996376720426" remote="130760058080000000" Dst="2" />
+</dwsync>

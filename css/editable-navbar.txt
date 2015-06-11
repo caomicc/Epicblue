@@ -1,0 +1,6 @@
+   <?php
+   $u = new User();
+   $g = Group::getByName('Administrators');
+   if($u->isSuperUser()||$u->inGroup($g)){ 
+   ?><div style="min-height: 49px"> </div> 
+   <?php  } ?>
